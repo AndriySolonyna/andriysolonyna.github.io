@@ -1,0 +1,181 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Andriy Solonyna",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "asolonyn@gmail.com",
+    "url": "https://resume.andriysolonyna.github.io",
+    "summary": "An experienced software developer. 9 years of extensive programming experience in developing web based applications and Client-Server technologies. I worked at early-stage start-ups as well as big enterprise projects. Mostly used Ruby and Ruby on Rails but open for new programming languages and technologies. Have practical experience with Javascript frameworks like React and Vue, cloud technologies (AWS) and container orchestration systems. I enjoy programming. I love to create things and solve complex problems. I love that people use what I built.",
+    "location": {
+      "city": "Ivano-Frankivsk",
+      "countryCode": "Ukraine",
+      "region": "Ivano-Frankivsk"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "andriy-solonyna-27221682",
+        "url": "https://www.linkedin.com/in/andriy-solonyna-27221682/"
+      },
+      {
+        "network": "Github",
+        "username": "AndriySolonyna",
+        "url": "https://github.com/AndriySolonyna"
+      },
+      {
+        "network": "Telegram",
+        "username": "asolonyn",
+        "url": "https://t.me/asolonyn"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "SoftServe",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "SoftServe is the bigest Ukranian digital consulting company.",
+      "position": "Dev Lead",
+      "url": "https://www.softserveinc.com/",
+      "startDate": "2017-11-01",
+      "summary": "Managed a feature development team at <b>Cisco Secure Endpoint (Formerly AMP for Endpoints)</b>",
+      "highlights": [
+        "Trained and mentored programmers in programming methodologies and best practices.",
+        "Assisted in designing new microservices architecture on cloud first infrastructure to help empower development teams",
+        "Delivered complex business driven features on a monolithic rails application in a scrum setting",
+        "Worked with large datasets from different sources to generate both real-time dashboards and reports for past periods",
+        "Developed integrations with other security solutions"
+      ]
+    },
+    {
+      "name": "SoftServe",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "SoftServe is the bigest Ukranian digital consulting company.",
+      "position": "Software Engineer",
+      "url": "https://www.softserveinc.com/",
+      "startDate": "2014-08-01",
+      "endDate": "2017-11-01",
+      "summary": "Participated in the pre-launch stage and the construction of the back end and front end for multiple startups",
+      "highlights": [
+        "Developed service which adds subtitles to the videos and transcodes video using Amazon Elastic Transcoder",
+        "Created few extentions for Canvas LMS like study calendar, services which imports data from other learning management systems",
+        "Eveloped application which extracts billing inforamtion from photos of documents",
+        "Designing and implementing of service which allows customers to create and track deliveries"
+      ]
+    },
+    {
+      "name": "LEZGRO",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "Outsource company",
+      "position": "Front-end developer",
+      "startDate": "2013-01-01",
+      "endDate": "2013-11-01",
+      "summary": "Developed the front-end of customers websites using HTML, CSS3, jQuery, Bootstprap",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vasyl Stefanyk Precarpathian National University",
+      "url": "https://pnu.edu.ua/en/",
+      "area": "Applied Mathematics",
+      "studyType": "Master's degree",
+      "startDate": "2009-09-01",
+      "endDate": "2014-06-30"
+    }
+  ],
+  "awards": [
+  ],
+  "publications": [
+  ],
+  "skills": [
+    {
+      "name": "Back End Development",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "API Development",
+        "GraphQL",
+        "Rspec",
+        "TDD",
+        "Capybara"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "Postgress",
+        "MongoDB",
+        "Cassandra",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Front End",
+      "level": "Intermediate",
+      "keywords": [
+        "VueJs",
+        "React",
+        "HTML5/CSS3",
+        "Bootstrap",
+        "Tailwindcss",
+        "CoffeeScript",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Kubernetes",
+        "Unix",
+        "Jenkins",
+        "GoCD",
+        "RabbitMQ"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Ukranian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Books"
+    },
+    {
+      "name": "Board games"
+    },
+    {
+      "name": "Video games"
+    }
+  ],
+  "references": [
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2022-02-02T15:53:00"
+  }
+}
